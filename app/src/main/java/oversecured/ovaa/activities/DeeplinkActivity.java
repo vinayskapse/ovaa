@@ -27,6 +27,7 @@ public class DeeplinkActivity extends AppCompatActivity {
             processDeeplink(uri);
         }
         finish();
+        
     }
 
     private void processDeeplink(Uri uri) {

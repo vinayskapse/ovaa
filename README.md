@@ -28,4 +28,4 @@ This section only includes the list of vulnerabilities, without a detailed descr
 
 *Copyright (c) 2022, Oversecured Inc*
 
-https://oversecured.com/
+https://oversecured.com/ 

@@ -9,4 +9,5 @@ import retrofit2.http.Url;
 public interface LoginService {
     @POST
     Call<Void> login(@Url String url, @Body LoginData loginData);
+    
 }
